@@ -1,0 +1,56 @@
+created_at: 1642771039
+cross:
+  supplier_proposed_cross_reference: null
+documents:
+  detailed_specifications_sheet: https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/JECPY1-9006O-01(ECAS-A0)
+    S.pdf
+environmental:
+  reach_svhc_information: Compliant
+  rohs_status: Compliant
+id: 29
+manufacturer: murata
+overview:
+  aec_qualified: 'NO'
+  category_l1: Capacitors
+  category_l1_id: 1
+  category_l2: Fixed Capacitors
+  category_l2_id: 2
+  category_l3: Capacitor Aluminum Polymer
+  category_l3_id: 4
+  family_name: https://www.murata.com/products/capacitor/polymer/ecas
+  feature: General,Up to 105℃,No DC bias Characteristics,Anti-noise, low distortion,Anti-crack
+    while deflecting,Reflow soldering, Polymer Aluminum Electrolytic Capacitors
+  lifecycle_source: http://www.murata.com/en-global/api/pdfdownloadapi?cate=cgsubPAECapacitors&partno=ECASD31A686M040KA0
+  lifecycle_status: In Production,Recommended,NewStatus
+  manufacturer: murata
+  note: null
+  part_images: https://search.murata.co.jp/Ceramy/image/img/A01X/ECAS_external_dimensions.gif,
+    https://search.murata.co.jp/Ceramy/image/img/A01X/ECAS.png
+  part_number: ECASD31A686M040KA0
+  rohs_status: Compliant
+  supplier_website: https://www.murata.com/en-global/products/productdetail?partno=ECASD31A686M040KA0
+package:
+  depth_mm: 4.3±0.2mm
+  height_mm: 1.4±0.1mm
+  length_mm: 7.3±0.3mm
+  package_case_in_inch_mm: 2917(7343)
+  weight_g: 0.13g
+packaging:
+  pn_packaging_suffix: K
+  pn_standard_packing_quantity: '3000'
+  pn_tape_type: 330Embossed Tape
+parametric:
+  allowable_ripple_current: 1.6Arms
+  capacitance: 68μF ±20%
+  capacitance_change_rate_within_tc_range: ±20%
+  leakage_current: 204.0μA
+  maximum_operating_temperature_deg: 105℃
+  operating_temperature_range_deg: -40℃ to 105℃
+  rated_voltage: 10Vdc
+product_number: ECASD31A686M040KA0
+resources:
+  s_parameter_s2p_type: https://ds.murata.co.jp/simserve/characteristics?ReqType=GetSparameter&partnumbers=ECASD31A686M040KA0
+  spice_netlist_mod_type: https://ds.murata.co.jp/simserve/characteristics?ReqType=GetNetList&partnumbers=ECASD31A686M040KA0
+  structural_drawings: https://search.murata.co.jp/Ceramy/image/img/A01X/D2P1CPL-001B_pS.pdf
+revision: ''
+updated_at: 0
